@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "GitHub.copilot",
+    "mikestead.dotenv",
+    "WillLuke.nextjs",
+    "bradlc.vscode-tailwindcss",
+    "rangav.vscode-thunder-client"
+  ]
+}
